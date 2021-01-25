@@ -26,9 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Video Walkthrough](https://github.com/faryal-khan/SimpleToDo/blob/master/SimpleToDoDemo.gif)
-
-<img src="https://github.com/faryal-khan/SimpleToDo/blob/master/SimpleToDoDemo.gif" width="250" height="250"/>
+<img src="https://github.com/faryal-khan/SimpleToDo/blob/master/SimpleToDoDemo.gif" width="350" height="500"/>
 
 ## Notes
 
